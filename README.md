@@ -23,3 +23,9 @@ My first repository
 [Github](http://github.com)
 
 ![This is an image](http://zh.mweb.im/asset/img/set-up-git.gif)
+
+
+学号 | 姓名 | 年龄
+-----| -----| -----
+1 | 小明 | 20
+2 | 小红 | 23
