@@ -1,5 +1,3 @@
-# hello-world
-My first repository
 
 # 这是第一级标题`<h1>`
 ## 这是第二级标题`<h2>`
@@ -49,3 +47,11 @@ My first repository
    - 2
 + 1
 - 2
+
+`create database school;`
+
+```
+SQL
+use school;
+create table student(sno char(7),sname varchar(20),sex varchar(6));
+```
