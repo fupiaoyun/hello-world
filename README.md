@@ -22,4 +22,4 @@ My first repository
 
 [Github](http://github.com)
 
-![This is an image](https://www.google.com/search?q=%E7%8C%AA&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj82NLJjLPgAhUjheAKHSb4BOQQ_AUIDigB&biw=1366&bih=626#imgrc=E5UYgFNtLJJ16M:）
+![This is an image](http://zh.mweb.im/asset/img/set-up-git.gif）
