@@ -22,4 +22,4 @@ My first repository
 
 [Github](http://github.com)
 
-![This is an image](http://zh.mweb.im/asset/img/set-up-git.gif）
+![This is an image](http://zh.mweb.im/asset/img/set-up-git.gif)
